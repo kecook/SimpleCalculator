@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="welcome_message">Welcome to my calculator</string>
+    <string name="title">SimpleCalculator</string>
+    <string name="plus_sign">+</string>
+    <string name="minuse_sign">-</string>
+    <string name="multiply_sign">*</string>
+    <string name="devide_sign">/</string>
+    <string name="number1">Enter Number 1</string>
+    <string name="number2">Enter Number 2</string>
+</resources>
